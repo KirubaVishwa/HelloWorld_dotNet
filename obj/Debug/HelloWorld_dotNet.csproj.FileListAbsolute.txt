@@ -1,0 +1,5 @@
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_VS2010\HelloWorld_dotNet\bin\HelloWorld_dotNet.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_VS2010\HelloWorld_dotNet\bin\HelloWorld_dotNet.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_VS2010\HelloWorld_dotNet\obj\Debug\HelloWorld_dotNet.csprojResolveAssemblyReference.cache
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_VS2010\HelloWorld_dotNet\obj\Debug\HelloWorld_dotNet.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\HelloWorld_VS2010\HelloWorld_dotNet\obj\Debug\HelloWorld_dotNet.pdb
