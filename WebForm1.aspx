@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h1>ASP.NET demo 1</h1>
+        <h1>ASP.NET demo</h1>
     </div>
     </form>
 </body>
